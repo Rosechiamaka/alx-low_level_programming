@@ -1,9 +1,8 @@
 #include <stdib.h>
 #include <time.h>
 #include <stdio.h>
-
 /**
- *  main - Determine whether the number stored in the variable n is positive or negativeor zero.
+ *  main - Determine if a number stored is positive,negative or zero.
  *
  *   Return: Always 0 (Success)
  */
